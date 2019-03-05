@@ -1,5 +1,5 @@
 ---
-title: Example Draft
+title: Example Draft 1
 layout: post
 date: 2018-01-19 00:00:00 +0000
 sub_heading: ''
